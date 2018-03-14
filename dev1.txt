@@ -1,1 +1,2 @@
 this is the first line in my file dev1.txt
+this is second line in dev1
